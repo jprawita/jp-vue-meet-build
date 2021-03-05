@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jp-vue-meet-build/precache-manifest.688a05a306708d2e0909f9a28dc260ef.js"
+  "/jp-vue-meet-build/precache-manifest.c8320a70680cf08700b630f038d50f02.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "jp-vue-meet"});
